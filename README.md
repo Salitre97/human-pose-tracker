@@ -1,2 +1,2 @@
-# human-pose-tracker
+# simgsegnav
 Simulated Segmented Navigation
